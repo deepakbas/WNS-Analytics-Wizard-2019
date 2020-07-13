@@ -1,0 +1,8 @@
+Challenges/Approach:
+Features like lags, most common, count, descriptive outcome of lag features along with time/date based, other intuitive features improved the score.
+Encoding features like mean, count through time basedcross validation improved the score.
+Different CV strategies like Kfold, Timeseries split were tried.
+Dropping certain features at different combinations had some impact on the model results
+In final model, Date based cross validation strategy has been used as Train/Test have different dates
+Private LB top score: 0.7544505715
+My score: 0.737816050301807
